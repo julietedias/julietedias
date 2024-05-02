@@ -15,6 +15,13 @@ During my journey as a developer, I worked, I made projects and I studied differ
 ### I'm studying or I'm interested in studying
 [![My Skills](https://skillicons.dev/icons?i=aws,py)](https://skillicons.dev)
 
+##
+<div>
+<a href="https://github.com/julietedias">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julietedias&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=julietedias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ## Contact me
 <a href="https://www.linkedin.com/in/julietedias/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="juliete_dias@outlook.com.br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
