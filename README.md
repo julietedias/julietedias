@@ -6,7 +6,7 @@ I'm a full-stack developer with over two years of experience. <br>
 During my journey as a developer, I worked, I made projects and I studied different tools, programming languages and frameworks.
 
 ## My skills sorted by knowledge
-### I work with it everyday
+### I work with it every day
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,postgres,vue,js,ts,html,css,sass,postman,git,gitlab,ubuntu,vscode)](https://skillicons.dev)
 
 ### I work with it sometimes or I do some projects with it
@@ -19,8 +19,8 @@ During my journey as a developer, I worked, I made projects and I studied differ
 
 <div>
 <a href="https://github.com/julietedias">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julietedias&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=julietedias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julietedias&layout=compact&langs_count=7&theme=synthwave"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=julietedias&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Contact me
