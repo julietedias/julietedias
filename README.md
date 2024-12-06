@@ -2,7 +2,7 @@
 
 # Hello, I'm Juliete
 
-I'm a full-stack developer with over two years of experience. <br>
+I'm a full-stack developer with over three years of experience. <br>
 During my journey as a developer, I worked, I made projects and I studied different tools, programming languages and frameworks.
 
 ## My skills sorted by knowledge
