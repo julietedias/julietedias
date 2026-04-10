@@ -15,7 +15,7 @@ During my journey as a developer, I worked, I made projects and I studied differ
 ### I'm studying or I'm interested in studying
 [![My Skills](https://skillicons.dev/icons?i=aws,py,react)](https://skillicons.dev)
 
-<br>
+<!-- <br> -->
 
 <!-- <div>
 <a href="https://github.com/julietedias">
