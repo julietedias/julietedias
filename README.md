@@ -17,11 +17,11 @@ During my journey as a developer, I worked, I made projects and I studied differ
 
 <br>
 
-<div>
+<!-- <div>
 <a href="https://github.com/julietedias">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julietedias&layout=compact&langs_count=7&theme=dark"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=julietedias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+</div> -->
 
 ## Contact me
 <a href="https://www.linkedin.com/in/julietedias/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
